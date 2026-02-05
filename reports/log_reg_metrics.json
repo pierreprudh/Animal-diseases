@@ -1,0 +1,20 @@
+{
+  "model_path": "/Users/pierre/Projects/Animal condition/models/animal_condition_log_reg.joblib",
+  "metrics": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "roc_auc": 1.0
+  },
+  "test_samples": 169,
+  "features": [
+    "animal_name",
+    "symptom_1",
+    "symptom_2",
+    "symptom_3",
+    "symptom_4",
+    "symptom_5",
+    "num_reported_symptoms"
+  ]
+}
